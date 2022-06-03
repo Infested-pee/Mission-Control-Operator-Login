@@ -1,0 +1,10 @@
+form {
+    margin: 0 auto;
+    width: 600px;
+}
+
+body {
+    background-color: darkgoldenrod;
+    background-position: top left;
+    background-size: cover;
+}
